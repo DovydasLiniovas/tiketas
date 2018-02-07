@@ -3,6 +3,7 @@ A college project for buying movie tickets from forumcinemas. It uses Forumcinem
 
 # LOGIN
 Username: testas
+
 Password: testas
 
 Keep in mind that this project was used with mysql so ordering will not work as intended, meaning registration and ordering will not work.
